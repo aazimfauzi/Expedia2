@@ -1,2 +1,2 @@
-# Expedia2
+# Expedia
 Expedia booking system
